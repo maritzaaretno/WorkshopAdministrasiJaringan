@@ -1,6 +1,6 @@
-LAPORAN RESMI
-WORKSHOP ADMINISTRASI JARINGAN
-PRAKTIKUM 1 : MANAJEMEN PAKET
+# LAPORAN RESMI
+# WORKSHOP ADMINISTRASI JARINGAN
+# PRAKTIKUM 1 : MANAJEMEN PAKET
 
 
 
@@ -28,7 +28,7 @@ Maritza Retno Dwianti
 PROGRAM STUDI TEKNIK INFORMATIKA
 POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 TAHUN 2023
-1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU
+# 1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU
 
 1.1.	SISTEM OPERASI
 Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
@@ -67,7 +67,7 @@ CentOS merupakan sebuah distribusi linux sebagai bentuk dari usaha untuk menyedi
 1.2.3.	OpenSUSE
 OpenSUSE merupakan sistem operasi komputer yang dibangun di atas kernel Linux yang dikembangkan secara independent. Tujuan Proyek openSUSE sendiri untuk memperkenalkan penggunaan Linux di manapun dengan menciptakan distribusi Linux yang stabil dan ramah pengguna dan dapat digunakan sebagai sistem operasi untuk desktop dan server.
 
-2.	SU DAN SUDO
+# 2.	SU DAN SUDO
 SU (Switch User) : Digunakan untuk beralih ke akun root dan juga user harus memasukkan kata sandi root setelah masuk ke akun root pengguna dapat melakukan dan menjalan perintah yang tidak dapat dilakukan oleh semua user, pada perintah su memiliki akses penuh kedalam sistem dan juga dapat mengubah file pada sistem
 
 SUDO (superuser do) : Sudo akan melakukan perintah sebagai superuser. Pengguna sudo dan perintah-perintah yang dapat mereka pergunakan terdapat pada file konfigurasi, /etc/sudoers. Apabila seorang pengguna yang tidak berhak mencoba menjalankan perintah, sudo akan memberitahu administrator melalui e-mail. Secara default, pemberitahuan peringatan ini akan disimpan di akun root.Pengguna yang mencoba menjalankan perintah akan diminta mengisikan password. Setelah terotentifikasi, sudo akan membuat timestamp untuk pengguna.
