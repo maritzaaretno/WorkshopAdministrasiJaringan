@@ -12,7 +12,7 @@
 6.	Summary
 
 # INTRODUCTION
-    Komputasi Awan merupakan model yang menawarkan layanan komputasi instan tanpa menanggung biaya. Seperti teknologi lainnya, terdapat kekurangannya. Salah satu masalah utama adalah masalah keamanan dan privasi salah satunya seperti kebocoran pada data karena infrastruktur sumber daya komputasi bersama untuk memproses informasi bisnis rahasia seperti, kekayaan intelektual, rahasia dagang, dan informasi rahasia pelanggan, yang dapat menyebabkan aktor yang tidak sah dapat mengaksesnya.
+   Komputasi Awan merupakan model yang menawarkan layanan komputasi instan tanpa menanggung biaya. Seperti teknologi lainnya, terdapat kekurangannya. Salah satu masalah utama adalah masalah keamanan dan privasi salah satunya seperti kebocoran pada data karena infrastruktur sumber daya komputasi bersama untuk memproses informasi bisnis rahasia seperti, kekayaan intelektual, rahasia dagang, dan informasi rahasia pelanggan, yang dapat menyebabkan aktor yang tidak sah dapat mengaksesnya.
 
 # THE THREATS
 
