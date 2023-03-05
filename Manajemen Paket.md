@@ -67,8 +67,10 @@ Langkah - langkah :
 3. Kemudian masukkan password
 4. Pada akhir file gunakan **deb [sumber]://[nama server]/[direktori]/[versi] [distro] [main]** untuk menambah sebuah repository
 5. Save dan keluar dari nano : Ctrl + x dan pilih Y untuk menyimpan perubahan
-6. Jalankan **sudo apt-get update** yang fungsinya untuk refresh daftar repository
-7. Selanjutnya gunakn **sudo apt-get install** untuk menginstall program yang telah ditambahkan sebelumnya
+![alt text](http://url/to/img.png)
+7. Jalankan **sudo apt-get update** yang fungsinya untuk refresh daftar repository
+8. Selanjutnya gunakn **sudo apt-get install** untuk menginstall program yang telah ditambahkan sebelumnya
+![repo](http://url/to/img.png)
 ### B. Arti dari versi di Repository
 ### C. Contoh instalasi package
 **APT(Advanced Package Tool)**<br>
@@ -90,13 +92,16 @@ Merupakan sebuah apk file manager yang dikhususkan untuk Linux. Fitur utama pada
 1. Pada terminal kita akan melakukan instalasi MC.
 2. Menggunakan perintah sudo apt-install mc untuk menginstall apk tersebut
 3. Setelah instalasi selesai, ketikkan **mc** pada terminal untuk membuka
+![alt text](http://url/to/img.png)
 ###	Net Tools
 Merupakan kumpulan tool yang berhubungan dengan jaringan seperti ipconfig, route, hostname, rarp, dan lain lain
 1. Pada terminal kita akan melakukan instalasi net-tools.
 2. Menggunakan perintah sudo apt-install net-tools untuk menginstall apk tersebut
 3. Setelah instalasi selesai, pengguna dapat menlakukan perintah seperti ipconfig dan lain lain
+![alt text](http://url/to/img.png)
 ###	htop
 Pada aplikasi htop ini berfungsi untuk melakukan monitoring terhadap kinerja sistem pada OS Linux
 1. Pada terminal kita akan melakukan instalasi htop
 2. Menggunakan perintah sudo apt-install htop untuk menginstall apk tersebut, kemudian tunggu
 3. Setelah instalasi selesai, pengguna dapat menlakukan perintah htop untuk membuka ap yang telah terinstall
+![alt text](http://url/to/img.png)
