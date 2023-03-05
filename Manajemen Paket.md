@@ -28,7 +28,7 @@ Maritza Retno Dwianti
 PROGRAM STUDI TEKNIK INFORMATIKA
 POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 TAHUN 2023
-# 1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU
+# * 1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU *
 
 1.1.	SISTEM OPERASI
 Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
