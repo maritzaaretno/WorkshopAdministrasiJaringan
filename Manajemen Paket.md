@@ -67,10 +67,10 @@ Langkah - langkah :
 3. Kemudian masukkan password
 4. Pada akhir file gunakan **deb [sumber]://[nama server]/[direktori]/[versi] [distro] [main]** untuk menambah sebuah repository
 5. Save dan keluar dari nano : Ctrl + x dan pilih Y untuk menyimpan perubahan
-![alt text](https://github.com/maritzaaretno/WorkshopAdministrasiJaringan/blob/[branch]/sudo nano1.png?raw=true)
+![repo](https://github.com/maritzaaretno/WorkshopAdministrasiJaringan/blob/82b9eb0f87d081c32593898bc9d6f86fa2fb7d87/FOTO/sudo%20nano%201.png)
 7. Jalankan **sudo apt-get update** yang fungsinya untuk refresh daftar repository
 8. Selanjutnya gunakn **sudo apt-get install** untuk menginstall program yang telah ditambahkan sebelumnya
-![repo](http://url/to/img.png)
+![repo](https://github.com/maritzaaretno/WorkshopAdministrasiJaringan/blob/82b9eb0f87d081c32593898bc9d6f86fa2fb7d87/FOTO/sudo%20nano%201.png)
 ### B. Arti dari versi di Repository
 ### C. Contoh instalasi package
 **APT(Advanced Package Tool)**<br>
