@@ -31,7 +31,7 @@ TAHUN 2023
 # 1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU
 
 A.	SISTEM OPERASI
-Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
+\n Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
 
 SERIAL PROCESSING (1940 - 1950)
 Pada periode ini computer belum memiliki sistem operasi sehingga hanya terdapat bilangan biner yang dapat dioperasikan. Komputer berjaln dengan console yang meliputi lampu sebagai tanda indicator, toggle switch, dan input device. Terdapat kekurangan yakni pada penjadwalan proses yang masih dilakukan manual, dan proses yang dilakukan masih serial sehingga ketika terjadi kegagalan maka seluruh proses akan dilakukan dari awal lagi
