@@ -1,6 +1,6 @@
-# LAPORAN RESMI
-WORKSHOP ADMINISTRASI JARINGAN
-PRAKTIKUM 1 : MANAJEMEN PAKET
+% ** LAPORAN RESMI
+% WORKSHOP ADMINISTRASI JARINGAN </br>
+% PRAKTIKUM 1 : MANAJEMEN PAKET **
 
 
 
@@ -15,14 +15,13 @@ PRAKTIKUM 1 : MANAJEMEN PAKET
 
 
 
-
-Dosen Pengampu:
+% ** Dosen Pengampu: **
  Dr. Ferry Astika Saputra ST, M.Sc	
 
-Disusun Oleh:
+% ** Disusun Oleh:**
 Maritza Retno Dwianti
-3121600054
-2 D4 IT B
+<br> 3121600054
+<br> 2 D4 IT B
 
 
 PROGRAM STUDI TEKNIK INFORMATIKA
@@ -31,7 +30,7 @@ TAHUN 2023
 # 1.	EVOLUSI SISTEM OPERASI, DEBIAN DAN UBUNTU
 
 A.	SISTEM OPERASI
-\n Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
+Sistem operasi merupakan perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer, dan menyediakan layanan umum untuk program komputer. Seiring dengan perkembangan teknologi Sistem Operasi atau OS tentunya terdapat evolusi atau perubahan, Berikut merupakan Evolusi dari Sistem Operasi:
 
 SERIAL PROCESSING (1940 - 1950)
 Pada periode ini computer belum memiliki sistem operasi sehingga hanya terdapat bilangan biner yang dapat dioperasikan. Komputer berjaln dengan console yang meliputi lampu sebagai tanda indicator, toggle switch, dan input device. Terdapat kekurangan yakni pada penjadwalan proses yang masih dilakukan manual, dan proses yang dilakukan masih serial sehingga ketika terjadi kegagalan maka seluruh proses akan dilakukan dari awal lagi
