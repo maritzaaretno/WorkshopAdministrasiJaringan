@@ -41,9 +41,12 @@ Terdapat beberapa informasi rinci, seperti:<br>
 <br>
 2. Selanjutnya pergi ke https://mikrotik.com/download untuk mendownload winbox.exe, sedangkan winbox sendiri adalah sebuah aplikasi yang digunakan untuk memanajemen router mikrotik<br>
 3. Setelah melakukan download buka file winbox64.exe dan click kanan "open in terminal" <br>
+
 ![g3](p2/repo.jpg)
+<br>
 5. Lakukan akses Router RB3011 dengan menggunakan **wine winbox64.exe**<br>
 6. Setelah winbox muncul pada dekstop<br>
+
 ![g4](p2/winbox.exe.jpg)
 
 ## Akses Router RB 3011 menggunakan winbox.exe via wine
