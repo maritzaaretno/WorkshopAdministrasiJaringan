@@ -78,3 +78,8 @@ Muncul pada tabel lalu click setelah itu connect<br>
 <br>![VirtualBox](p2/vb7.jpeg)<br>
 <br>![VirtualBox](p2/vb8.jpeg)<br>
 <br>![VirtualBox](p2/vb9.jpeg)<br>
+<br>![VirtualBox](p2/vb10.jpeg)<br>
+<br>![VirtualBox](p2/vb11.jpeg)<br>
+<br>![VirtualBox](p2/vb12.jpeg)<br>
+<br>![VirtualBox](p2/vb13.jpeg)<br>
+<br>![VirtualBox](p2/vb14.jpeg)<br>
