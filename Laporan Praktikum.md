@@ -46,16 +46,15 @@ Terdapat beberapa informasi rinci, seperti:<br>
 <br>
 5. Lakukan akses Router RB3011 dengan menggunakan **wine winbox64.exe**<br>
 6. Setelah winbox muncul pada dekstop<br>
-![g4](p2/winbox.exe.jpg)
+![g4](p2/winboxexe.jpeg)
 
 ## Akses Router RB 3011 menggunakan winbox.exe via wine
 Setelah melakukan step sebelumnya, selanjutnya lakukan pengaksesan dengan cara:
 Muncul pada tabel lalu click setelah itu connect<br>
+![g4](p2/connect.jpeg)
 7. Setelah itu akan muncul menu yang dinamakan RouterOS<br>
 8. Lakukan penambahan static route dengan menggunakan menu **IP** yang terdapat pada mikrotik kemudian, masuk pada bagian **Routes** yang akan menampilkan list route yang telah terhubung ke PC yang kita gunakan, selanjutnya dapat melakukan penambahan routes terhadap PC lainnya.<br>
-
--gambar
-
+![g4](p2/PergiKeIP.jpeg)
 ## Tambahkan Routing Table Pada Router
 9. Inputkan “Destination Address” yang terdapat pada ethernet 2 dari tiap PC “192.168.x.x” kemudian pada bagian “Gateway” diisi dengan network yang terdapat pada ethernet 1 dari tiap PC “10.252.x.x” yang ingin dituju.<br>
 
