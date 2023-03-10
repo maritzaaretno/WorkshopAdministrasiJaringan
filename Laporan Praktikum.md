@@ -46,15 +46,16 @@ Terdapat beberapa informasi rinci, seperti:<br>
 <br>
 5. Lakukan akses Router RB3011 dengan menggunakan **wine winbox64.exe**<br>
 6. Setelah winbox muncul pada dekstop<br>
-![g4](p2/winboxexe.jpeg)
+![g4](p2/winbox.exe.jpg)
 
 ## Akses Router RB 3011 menggunakan winbox.exe via wine
 Setelah melakukan step sebelumnya, selanjutnya lakukan pengaksesan dengan cara:
 Muncul pada tabel lalu click setelah itu connect<br>
-![g4](p2/connect.jpeg)
 7. Setelah itu akan muncul menu yang dinamakan RouterOS<br>
 8. Lakukan penambahan static route dengan menggunakan menu **IP** yang terdapat pada mikrotik kemudian, masuk pada bagian **Routes** yang akan menampilkan list route yang telah terhubung ke PC yang kita gunakan, selanjutnya dapat melakukan penambahan routes terhadap PC lainnya.<br>
-![g4](p2/PergiKeIP.jpeg)
+
+-gambar
+
 ## Tambahkan Routing Table Pada Router
 9. Inputkan “Destination Address” yang terdapat pada ethernet 2 dari tiap PC “192.168.x.x” kemudian pada bagian “Gateway” diisi dengan network yang terdapat pada ethernet 1 dari tiap PC “10.252.x.x” yang ingin dituju.<br>
 
@@ -63,9 +64,16 @@ Muncul pada tabel lalu click setelah itu connect<br>
 10. Setelah dilakukan setting routing terhadap PC, maka dapat dilakukan Ping dengan menggunakan destination address “Ping 192.168.x.x” untuk nge ping PC yang ingin dituju.<br>
 
 ## INSTALL VIRTUAL BOX
-<br>![VirtualBox](p2/v1&v2.jpg)<br>
+<br>![VirtualBox](p2/vb1danvb2.jpeg)<br>
 1. Update System sudo apt update && sudo apt -y upgrade dan lakukan reboot menggunakan [ -f /var/run/reboot-required ] && sudo reboot -f
+<br>![VirtualBox](p2/vb3.jpeg)<br>
 2. Lakukan import virtual box apt repository
+<br>![VirtualBox](p2/vb4.jpeg)<br>
 3. Tambahkan virtual box repository
+<br>![VirtualBox](p2/vb5.jpeg)<br>
 4. Install Virtualbox dan paket existensi
+<br>![VirtualBox](p2/vb6.jpeg)<br>
 5. Jalankan virtual box
+<br>![VirtualBox](p2/vb7.jpeg)<br>
+<br>![VirtualBox](p2/vb8.jpeg)<br>
+<br>![VirtualBox](p2/vb9.jpeg)<br>
