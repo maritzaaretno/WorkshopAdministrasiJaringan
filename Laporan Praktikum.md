@@ -46,7 +46,6 @@ Terdapat beberapa informasi rinci, seperti:<br>
 <br>
 5. Lakukan akses Router RB3011 dengan menggunakan **wine winbox64.exe**<br>
 6. Setelah winbox muncul pada dekstop<br>
-
 ![g4](p2/winbox.exe.jpg)
 
 ## Akses Router RB 3011 menggunakan winbox.exe via wine
@@ -65,6 +64,7 @@ Muncul pada tabel lalu click setelah itu connect<br>
 10. Setelah dilakukan setting routing terhadap PC, maka dapat dilakukan Ping dengan menggunakan destination address “Ping 192.168.x.x” untuk nge ping PC yang ingin dituju.<br>
 
 ## INSTALL VIRTUAL BOX
+<br>![VirtualBox](p2/v1&v2.jpg)<br>
 1. Update System sudo apt update && sudo apt -y upgrade dan lakukan reboot menggunakan [ -f /var/run/reboot-required ] && sudo reboot -f
 2. Lakukan import virtual box apt repository
 3. Tambahkan virtual box repository
