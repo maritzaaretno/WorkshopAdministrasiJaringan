@@ -63,19 +63,22 @@ Muncul pada tabel lalu click setelah itu connect<br>
 ![g4](p2/TambahIP.jpeg)
 
 10. Setelah dilakukan setting routing terhadap PC, maka dapat dilakukan Ping dengan menggunakan destination address “Ping 192.168.x.x” untuk nge ping PC yang ingin dituju.<br>
-![g4](p2/ping.jpeg)
+![g4](p2/ping.jpg)
 
 ## INSTALL VIRTUAL BOX
-<br>![VirtualBox](p2/vb1dan2.jpeg)<br>
 1. Update System sudo apt update && sudo apt -y upgrade dan lakukan reboot menggunakan [ -f /var/run/reboot-required ] && sudo reboot -f
-<br>![VirtualBox](p2/vb3.jpeg)<br>
 2. Lakukan import virtual box apt repository
-<br>![VirtualBox](p2/vb4.jpeg)<br>
+<br>![VirtualBox](p2/vb1dan2.jpeg)<br>
 3. Tambahkan virtual box repository
-<br>![VirtualBox](p2/vb5.jpeg)<br>
+<br>![VirtualBox](p2/vb3.jpeg)<br>
+
+
+
 4. Install Virtualbox dan paket existensi
-<br>![VirtualBox](p2/vb6.jpeg)<br>
+<br>![VirtualBox](p2/vb4.jpeg)<br>
 5. Jalankan virtual box
+<br>![VirtualBox](p2/vb5.jpeg)<br>
+<br>![VirtualBox](p2/vb6.jpeg)<br>
 <br>![VirtualBox](p2/vb7.jpeg)<br>
 <br>![VirtualBox](p2/vb8.jpeg)<br>
 <br>![VirtualBox](p2/vb9.jpeg)<br>
