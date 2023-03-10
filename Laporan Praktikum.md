@@ -63,6 +63,7 @@ Muncul pada tabel lalu click setelah itu connect<br>
 ![g4](p2/TambahIP.jpeg)
 
 10. Setelah dilakukan setting routing terhadap PC, maka dapat dilakukan Ping dengan menggunakan destination address “Ping 192.168.x.x” untuk nge ping PC yang ingin dituju.<br>
+![g4](p2/ping.jpeg)
 
 ## INSTALL VIRTUAL BOX
 <br>![VirtualBox](p2/vb1dan2.jpeg)<br>
