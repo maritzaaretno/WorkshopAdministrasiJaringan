@@ -64,3 +64,9 @@ Muncul pada tabel lalu click setelah itu connect<br>
 
 10. Setelah dilakukan setting routing terhadap PC, maka dapat dilakukan Ping dengan menggunakan destination address “Ping 192.168.x.x” untuk nge ping PC yang ingin dituju.<br>
 
+## INSTALL VIRTUAL BOX
+1. Update System sudo apt update && sudo apt -y upgrade dan lakukan reboot menggunakan [ -f /var/run/reboot-required ] && sudo reboot -f
+2. Lakukan import virtual box apt repository
+3. Tambahkan virtual box repository
+4. Install Virtualbox dan paket existensi
+5. Jalankan virtual box
