@@ -1,7 +1,7 @@
 <p align=center>
 LAPORAN RESMI <br>
 WORKSHOP ADMINISTRASI JARINGAN </br>
-PRAKTIKUM 1 : MANAJEMEN PAKET
+PRAKTIKUM 2 : KEAMANAN JARINGAN
 
 <p align=center>
 Dosen Pengampu:<br>
