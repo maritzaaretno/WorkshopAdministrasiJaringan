@@ -72,14 +72,16 @@ Muncul pada tabel lalu click setelah itu connect<br>
 3. Tambahkan virtual box repository
 4. Install Virtualbox dan paket existensi
 <br>![VirtualBox](p2/vb4.jpeg)<br>
-5. Jalankan virtual box
 <br>![VirtualBox](p2/vb5.jpeg)<br>
 <br>![VirtualBox](p2/vb6.jpeg)<br>
 <br>![VirtualBox](p2/vb7.jpeg)<br>
 <br>![VirtualBox](p2/vb8.jpeg)<br>
+5. Jalankan virtual box<br>
+6. Tentukan lokasi folder penyimpanan
 <br>![VirtualBox](p2/vb9.jpeg)<br>
+7. Masukkan username serta password dengan password admin
 <br>![VirtualBox](p2/vb10.jpeg)<br>
+8. Tentukan memori penyimpanan
 <br>![VirtualBox](p2/vb11.jpeg)<br>
-<br>![VirtualBox](p2/vb12.jpeg)<br>
-<br>![VirtualBox](p2/vb13.jpeg)<br>
+9. Lalu summary instalasi telah selesai dilakukan
 <br>![VirtualBox](p2/vb14.jpeg)<br>
