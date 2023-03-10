@@ -26,7 +26,7 @@ Dengan menggunakan perintah “dhclient -v” pengguna dapat mengetahui informas
 1. Pada ubuntu pergi ke terminal<br>
 2. Ketikkan **sudo dhclient -v**<br>
 3. Enter
-![su & sudo command](p2/sudo_dhclient.jpg)
+![g1](p2/sudo_dhclient.jpg)
 <br>
 Dalam menjalankan perintah dhclient -v gunakan sudo dikarenakan perintah tersebut memerlukan hak sebagai superuser. Seperti pada gambar diatas, perintah dhclient -v telah berjalan.<br>
 Terdapat beberapa informasi rinci, seperti:<br>
@@ -37,11 +37,11 @@ Terdapat beberapa informasi rinci, seperti:<br>
 ## Install WINBOX.EXE
 **Langkah - Langkah :** <br>
 1. Melakukan instalasi aplikasi wine, sehingga pengguna dapat menjalankan program Windows pada Linux menggunakan perintah sudo apt-get install wine
-![su & sudo command](p2/sudo_apt-get_install_wine.jpg)
+![g2](p2/sudo_apt-get_install_wine.jpg)
 <br>
 2. Selanjutnya pergi ke https://mikrotik.com/download untuk mendownload winbox.exe, sedangkan winbox sendiri adalah sebuah aplikasi yang digunakan untuk memanajemen router mikrotik<br>
-3. Setelah melakukan download buka file winbox64.exe dan click kanan "open in terminal"<br>
-![su & sudo command](p2/repo.jpg)
+3. Setelah melakukan download buka file winbox64.exe dan click kanan "open in terminal"
+![g3](p2/repo.jpg)
 5. Lakukan akses Router RB3011 dengan menggunakan **wine winbox64.exe**<br>
 6. Setelah winbox muncul pada dekstop<br>
 
