@@ -70,10 +70,7 @@ Muncul pada tabel lalu click setelah itu connect<br>
 2. Lakukan import virtual box apt repository
 <br>![VirtualBox](p2/vb1dan2.jpeg)<br>
 3. Tambahkan virtual box repository
-<br>![VirtualBox](p2/vb3.jpeg)<br>
-
-
-
+<br>
 4. Install Virtualbox dan paket existensi
 <br>![VirtualBox](p2/vb4.jpeg)<br>
 5. Jalankan virtual box
