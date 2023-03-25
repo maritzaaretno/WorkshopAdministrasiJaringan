@@ -22,30 +22,28 @@ TAHUN 2023
 <br><br><br>
 
 ### 1. Setting IP dan Interface
-Untuk setting IP dan interface menggunakan winbox. Winbox sendiri merupakan sebuah aplikasi yang digunakan untuk konfigurasi Mikrotik RouterOS menggunakan GUI. langkah pertama yang dilakukan menjalankan winbox melalui terminal menggunakan perintah <b>wine winbox64.exe</b>
+Untuk setting IP dan interface menggunakan winbox. Winbox sendiri merupakan sebuah aplikasi yang digunakan untuk konfigurasi Mikrotik RouterOS menggunakan GUI. langkah pertama yang dilakukan menjalankan winbox melalui terminal menggunakan perintah <b>wine winbox64.exe</b><br>
 ![Buka Winbox via terminal](Kel4/0.jpeg)
-Setelah menjalankan perintah diatas maka akan muncul tampilan seperti gambar dibawah
+<br>Setelah menjalankan perintah diatas maka akan muncul tampilan seperti gambar dibawah<br>
 ![Buka Winbox](Kel4/0_1.jpeg)
-Untuk mengatur IP Address, pada bagian menu samping pada winbox click IP lalu addresses
+<br>Untuk mengatur IP Address, pada bagian menu samping pada winbox click IP lalu addresses<br>
 ![Setting IP Address](Kel4/1.jpeg)
-Kemudian akan muncul tampilan seperti gambar dibawah, Selanjutnya tambahkan ip address pada tanda plus yang diberi panah
+<br>Kemudian akan muncul tampilan seperti gambar dibawah, Selanjutnya tambahkan ip address pada tanda plus yang diberi panah<br>
 ![IP Address](Kel4/1_2.jpeg)
 <br>Masukkan address <b> 192.168.4.1</b> dengan Network <b>192.168.4.0</b> dan pilih inteface <b>ethernet 2</b> selanjutnya click <b>Apply</b>, maka IP yang telah dimasukkan akan tampil pada address list
 
-<center>
-
 ![New Address2](Kel4/4.jpeg)
 
-</center>
-
 ### 2. Seting Default Gateway 0.0.0.0/0 IP Route Gateway 10.252.108.212
-Untuk setting IP Routes dan Default Gateway click IP kemudian Routes
+<br>Untuk setting IP Routes dan Default Gateway click IP kemudian Routes<br>
+
 ![IP_ROUTES](Kel4/9.jpeg)
-kemudian pada tab routes tambahkan menggunakan icon yang diberi tanda panah lalu click
+<br>kemudian pada tab routes tambahkan menggunakan icon yang diberi tanda panah lalu click<br>
+
 ![IP_ROUTES](Kel4/10.jpeg)
-Masukkan IP 
+<br> Masukkan IP <br>
 ![IP_ROUTES](Kel4/11.jpeg)
-Masukkan Default gateway
+<br>Masukkan Default gateway<br>
 ![IP_ROUTES](Kel4/13.jpeg)
 <br>
 List IP Address yang di inputkan<br>
@@ -100,39 +98,39 @@ Pilih Interface eth2<br>
 
 
 ### 4. Sambungkan PC/Laptop ke jaringan, Check IP Address Pastikan IP Address dari PC mendapatkan IP Address dan DHCP server
-Untuk menyambungkan laptop/PC ke jaringan buka Control Panel, Network and Internet, Network Connections selanjutnya pilih Ethernet2
+Untuk menyambungkan laptop/PC ke jaringan buka Control Panel, Network and Internet, Network Connections selanjutnya pilih Ethernet2<br>
 ![IP_ROUTES](Kel4/14.jpeg)
 <br>Selanjutnya click properties
 
 ![IP_ROUTES](Kel4/15.jpeg)
-<br> Selanjutnya pilih IPv4 
+<br> Selanjutnya pilih IPv4 <br>
 
 ![IP_ROUTES](Kel4/16.jpeg)
-<br> Pada general pilih Obtain an IP address automatically dan Obtain DNS Server address automatically, dimana kita akan mendapatkan ip secara otomatis 
+<br> Pada general pilih Obtain an IP address automatically dan Obtain DNS Server address automatically, dimana kita akan mendapatkan ip secara otomatis <br>
 
 ![IP_ROUTES](Kel4/17.jpeg)
 
-<br> Kemudian cek pada Network Connection Details pada IPv4 Address, Default gateway dan DHCP server masing masing telah mendapatkan
+<br> Kemudian cek pada Network Connection Details pada IPv4 Address, Default gateway dan DHCP server masing masing telah mendapatkan<br>
 
 ![IP_ROUTES](Kel4/18.jpeg)
 
 ### 5. Power up, Nyalakan PC VM anda pastikan konfigurasi BRIDGE, Pastikan mendapatkan IP Adddress dari DHCP Server
-Pada VM Pergi ke settings kemudian pada network pastikan attached to Bridged adapter
+Pada VM Pergi ke settings kemudian pada network pastikan attached to Bridged adapter<br>
 ![IP_ROUTES](Kel4/19.jpeg)
 
 ### 6. Konfigurasi IP VM menjadi static, IP: 192.168.X.10
-Untuk mengkonfigurasikan IP VM kita konfigurasikan melalui terminal, dengan menjalankan perintah sudo nano /etc/network/interfaces kemudian enter
+Untuk mengkonfigurasikan IP VM kita konfigurasikan melalui terminal, dengan menjalankan perintah sudo nano /etc/network/interfaces kemudian enter<br>
 ![IP_ROUTES](Kel4/21.jpeg)
-<br> Pada sudo nano tambahkan enp0s3, iface enp0s3 inet static, masukkan address 192.168.4.10 serta netmask dan gateway selanjtnya simpan lalu ctrl exit.
+<br> Pada sudo nano tambahkan enp0s3, iface enp0s3 inet static, masukkan address 192.168.4.10 serta netmask dan gateway selanjtnya simpan lalu ctrl exit.<br>
 
 ![IP_ROUTES](Kel4/20.jpeg)
-<br> Lakukan reastart
+<br> Lakukan reastart<br>
 
 ![IP_ROUTES](Kel4/24.jpeg)
 ![IP_ROUTES](Kel4/25.jpeg)
 ### 7. Konfigurasi NTP ke 0.id.pool.ntp.org, 1.id.pool.ntp.org
 
-Merubah pengaturan sistem waktu, Set sistem timezone menggunakan command dibawah
+Merubah pengaturan sistem waktu, Set sistem timezone menggunakan command dibawah<br>
 ![IP_ROUTES](Kel4/26.jpeg)
 <br> Aktifkan klien NTP untuk sinkronisasi waktu. Edit timesyncd.conf untuk menentukan server NTP yang Anda gunakan<br>
 
