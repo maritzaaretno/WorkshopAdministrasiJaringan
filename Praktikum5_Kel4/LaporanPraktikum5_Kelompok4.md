@@ -32,11 +32,17 @@ Untuk konfigurasi DNS Server, pertama yang dilakukan adalah melakukan instalasi 
 4. resolvconf
 <br>
 Masuk sebagai user root:<br>
+
 ![Masuk su](img/1.jpeg)
+
 <br>Kemudian lakukan instalasi beberapa paket diatas menggunakan command <b> apt-get install</b><br>
+
 ![apt get-isntall](img/2.jpeg)
+
 <br>Click Y untuk melanjutkan proses instalasi<br>
+
 ![apt get-install](img/3.jpeg)
+
 ![apt get-install](img/4.jpeg)
 
 ### 2. Lakukan Check DNS 
