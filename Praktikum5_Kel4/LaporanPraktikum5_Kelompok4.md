@@ -91,7 +91,7 @@ Buka file menggunakan command <b>nano named.conf.default-zones</b><br>
 ![konfig default-zones](img/22.jpeg)
 
 ### 5. Menambahkan Teks pada resolv.conf
-Jalankan perintah nano untuk megedit file tersebut<br>
+Jalankan perintah nano untuk membuka dan edit file tersebut<br>
 ![resolv](img/23.jpeg)
 
 <br><br>setelah masuk pada file, lakukan pengeditan dan tambahkan <b>nameserver 192.168.4.10</b><br>
@@ -109,6 +109,9 @@ Untuk pengujian hasil konfigurasi gunakan command nslookup<br>
 
 <br>Lakukan test ping pada server dan client<br>
 1. Client<br>
+  
 ![ping client](img/28.jpeg)
+  
 2. Server<br>
+  
 ![ping server](img/29.jpeg)
