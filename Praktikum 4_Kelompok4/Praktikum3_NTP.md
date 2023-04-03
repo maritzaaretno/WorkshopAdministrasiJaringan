@@ -1,7 +1,7 @@
 <p align=center>
 LAPORAN RESMI <br>
 WORKSHOP ADMINISTRASI JARINGAN </br>
-PRAKTIKUM MINGGU KE 5<br><br>
+PRAKTIKUM 3<br><br>
 
 <p align=center>
 Dosen Pengampu:<br>
