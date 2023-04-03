@@ -1,7 +1,7 @@
 <p align=center>
 LAPORAN RESMI <br>
 WORKSHOP ADMINISTRASI JARINGAN </br>
-PRAKTIKUM 5 - PRAKTIKUM DNS SERVER<br><br>
+PRAKTIKUM 5 - DNS SERVER<br><br>
 
 <p align=center>
 Dosen Pengampu:<br>
