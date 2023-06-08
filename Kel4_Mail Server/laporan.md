@@ -112,5 +112,30 @@ inet_protocols = all
   #
   ```
 
-Selanjutnya 
+<br> Selanjutnya lakukan restart
+  ```bash
+  sudo systemctl restart dovecot
+  ```
+## Penambahan User Email
+  Lakukan penambahan user dengan command adduser dengan perintah
+  ```bash
+  sudo adduser a
+  ```
+  ```bash
+  sudo adduser b
+  ```
+  <br> setelah melakukan penambahan user lakukan restart
+  ```bash
+  sudo systemctl restart postfix dovecot
+  ```
+  
+  ## Testing
+  Sebelum melakukan testing lakukan install package telnet
+  ```bash
+  sudo apt install telnet
+  ```
+  lakukan test dengan kirim file menggunakan command telnet ```<domain name> <port>``` kemudian masukkan nama dari alamat pengirim yang menggunakan ```mail from:```. selanjutnya masukkan nama dari alamat penerima menggunakan ```rcpt to: <data> ``` lalu isi subject ```Subject: <isi> kemudian gunakan tanda (.) untuk mengakhiri pesan, untuk pengiriman test email gunakan command dibawah
+```bash
+  telnet mail.kampus-04.takehome.com 25
+```
   
