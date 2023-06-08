@@ -134,7 +134,7 @@ inet_protocols = all
   ```bash
   sudo apt install telnet
   ```
-  lakukan test dengan kirim file menggunakan command telnet ```<domain name> <port>``` kemudian masukkan nama dari alamat pengirim yang menggunakan ```mail from:```. selanjutnya masukkan nama dari alamat penerima menggunakan ```rcpt to: <data> ``` lalu isi subject ```Subject: <isi> kemudian gunakan tanda (.) untuk mengakhiri pesan, untuk pengiriman test email gunakan command dibawah
+  lakukan test dengan kirim file menggunakan command telnet ```<domain name> <port>``` kemudian masukkan nama dari alamat pengirim yang menggunakan ```mail from:```. selanjutnya masukkan nama dari alamat penerima menggunakan ```rcpt to: <data> ``` lalu isi subject ```Subject: <isi>``` kemudian gunakan tanda (.) untuk mengakhiri pesan, untuk pengiriman test email gunakan command dibawah
 ```bash
   telnet mail.kampus-04.takehome.com 25
 ```
