@@ -30,7 +30,6 @@ sudo apt install postfix
 ```
 Setelah melakukan instalasi kemudian akna muncul tampilan konfigurasi <br>
   ![Config Postfix](img/postfix_conf.jpg)
-  ![Config Postfix](img/postfix_conf1.jpg)
   ![Config Postfix](img/postfix_conf2.jpg)
   ![Config Postfix](img/postfix_conf3.jpg)
   ![Config Postfix](img/postfix_conf4.jpg)
