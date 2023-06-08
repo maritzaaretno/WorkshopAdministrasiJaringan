@@ -28,7 +28,7 @@ TAHUN 2023
 ```bash
 sudo apt install postfix
 ```
-Setelah melakukan instalasi kemudian akna muncul tampilan konfigurasi 
+Setelah melakukan instalasi kemudian akna muncul tampilan konfigurasi <br>
   ![Config Postfix](img/postfix_conf.jpg)
   ![Config Postfix](img/postfix_conf1.jpg)
   ![Config Postfix](img/postfix_conf2.jpg)
