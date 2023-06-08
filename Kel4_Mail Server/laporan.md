@@ -21,6 +21,25 @@ TAHUN 2023
 </p>
 <br><br><br>
 
+<b> Mail Server <b> merupakan sebuah sistem yang membantu dalam distribusi email dari proses pengiriman maupun penerimaan, sehingga merupakan sebuah perantara dalam proses tersebut. Email yang telah dikirim tersebut akan disimpan pada mail server kemudian di forward oleh mail server penerima.
+## Instalasi POSTFIX
+  Untuk melakukan instalasi postfix pertama yang harus disiapkan adalah webserver (apache). Setelah terinstall, masukkan perintah dibawah untuk menginstall postfix
+  
+```bash
+sudo apt install postfix
+```
+Setelah melakukan instalasi kemudian akna muncul tampilan konfigurasi 
+  ![Config Postfix](img/postfix_conf.jpg)
+  ![Config Postfix](img/postfix_conf1.jpg)
+  ![Config Postfix](img/postfix_conf2.jpg)
+  ![Config Postfix](img/postfix_conf3.jpg)
+  ![Config Postfix](img/postfix_conf4.jpg)
+  ![Config Postfix](img/postfix_conf5.jpg)
+  ![Config Postfix](img/postfix_conf6.jpg)
+  ![Config Postfix](img/postfix_conf7.jpg)
+  ![Config Postfix](img/postfix_conf8.jpg)
+  ![Config Postfix](img/postfix_conf9.jpg)
+  
 ## Instalasi SquirrelMail
 
 <br> <b> SquirrelMail </b> merupakan salah satu web mail client untuk protokol IMAP yang seringkali digunakan untuk pengelolaan email pada mail server milik pribadi
